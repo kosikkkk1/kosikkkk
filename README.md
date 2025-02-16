@@ -1,2 +1,5 @@
 # kosikkkk
-My personal repository.
+  ✋ Hi, there.
+
+🏢 I'm currently studying in university.   
+⭐ I'm currently learning Java.
