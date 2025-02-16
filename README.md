@@ -1,0 +1,2 @@
+# kosikkkk
+My personal repository.
